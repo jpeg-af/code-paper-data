@@ -1,0 +1,2 @@
+model_checkpoint_path: "/data1/zhanghx/week3/6tests/networkL8/70model/.ckpt"
+all_model_checkpoint_paths: "/data1/zhanghx/week3/6tests/networkL8/70model/.ckpt"
